@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mohammed Amine AYACHE
+- 👀 I’m interested in coding and maths
+- 🌱 I’m currently learning Microservices, Spring batch...
+- 📫 contact me via email : med.amine.ayache@gmail.com
