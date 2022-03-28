@@ -4,4 +4,4 @@
 - 📫 contact me via email : med.amine.ayache@gmail.com
 <hr/>
 <br/>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pople10&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pople10&show_icons=true&theme=dark)
