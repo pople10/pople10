@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding and maths
 - 🌱 I’m currently learning Microservices, Spring batch...
 - 📫 contact me via email : med.amine.ayache@gmail.com
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pople10)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pople10&show_icons=true&theme=dark)
